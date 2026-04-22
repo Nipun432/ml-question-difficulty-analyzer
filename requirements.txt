@@ -1,4 +1,3 @@
-This Project Requirements are:-
 flask
 scikit-learn
 pandas
